@@ -1,4 +1,4 @@
-## Results for object detection
+## Results for LLMs
 
 |         | Model size in MB | Tokens/s | Top-5 Accuracy |
 |---------|------------|----------------|-----------|
